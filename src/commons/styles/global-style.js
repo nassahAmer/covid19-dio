@@ -44,8 +44,8 @@ const globalStyle = createGlobalStyle`
         flex-direction: column;
     }
 
-    .testeColor {
-        color: red;
+    .padding10-important {
+        padding: 10px !important;
     }
 
 `
