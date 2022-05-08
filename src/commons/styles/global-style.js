@@ -4,7 +4,7 @@ import CovidImg from '../../assets/images/covid.jpg'
 const globalStyle = createGlobalStyle`
     * {
         outline: none;
-        box-sizing: border-box;
+        box-sizing: content-box;
     }
 
     body {
